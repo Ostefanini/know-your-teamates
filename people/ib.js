@@ -13,5 +13,6 @@ var people = [
     "Kevin",
     "Arthur",
     "Shohan",
-    "Zack"
+    "Zack",
+    "Pierre"
 ];
