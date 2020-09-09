@@ -4,5 +4,6 @@ var professionalQuestions = [
     "Le langage avec lequel tu as commencé ?",
     "Tu as fais quoi comme études ?",
     "Plutôt Front ou plutôt Back ?",
-    "Ta dernière réunion, c'était à quel sujet ?"
+    "Ta dernière réunion, c'était à quel sujet ?",
+    "Pour toi GIT c'est en ligne de commande ou tu utilises un GUI ?"
 ];
